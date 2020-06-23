@@ -1,6 +1,6 @@
 # **Traffic Sign Classification** 
 
-<img src="ReferencePictures/example.jpg" width="480" alt="Combined Image" />
+<img src="ReferencePictures/example.jpg" width="240" alt="Combined Image" />
 
 ## **Overview**
 ---
